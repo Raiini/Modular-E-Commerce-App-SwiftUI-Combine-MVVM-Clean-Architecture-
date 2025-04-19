@@ -6,6 +6,7 @@ REST API (FakeStoreAPI or custom JSON)
 CoreData or Realm for offline caching
 
 Fastlane + GitHub Actions for CI/CD
+Test
 
 XCTest & UI Testing
 
