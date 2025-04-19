@@ -1,9 +1,30 @@
-Modular architecture (domain, data, UI)
+🔧 Tech Stack:
+SwiftUI + Combine + MVVM + Clean Architecture
 
-Cart, payment, wishlist, auth, and dynamic product listing
+REST API (FakeStoreAPI or custom JSON)
 
-In-app purchase (StoreKit 2)
+CoreData or Realm for offline caching
 
-Image caching and performance optimization
+Fastlane + GitHub Actions for CI/CD
 
-GitHub Actions for CI
+XCTest & UI Testing
+
+StoreKit 2 (In-App Purchases)
+
+📦 Key Features:
+Product Listing + Filters
+
+Add to Cart, Wishlist, Order History
+
+User Login/Sign Up (Sign in with Apple)
+
+Offline caching and retry mechanism
+
+In-App Purchase flow for premium content
+
+🎯 GitHub Value:
+Folder-wise clean architecture (Presentation, Domain, Data)
+
+CI/CD setup with Fastlane for TestFlight builds
+
+README with architecture diagram + preview GIFs
